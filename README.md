@@ -6,7 +6,7 @@ and this [post by Sebastian Eschweiler](https://medium.com/codingthesmartway-com
 
 ## Usage
 1. clone this repo
-1. run `yarn install`
+1. run `npm install` (or `yarn install`)
 1. run `npm run watch-ts` in a terminal
 1. run `npm run watch-node` in another terminal
 1. open a browser on [http://localhost:4000/graphql](http://localhost:4000/graphql)
